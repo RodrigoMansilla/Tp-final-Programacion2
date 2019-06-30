@@ -1,0 +1,1028 @@
+# depslib dependency file v1.0
+1412255655 source:c:\users\backup_labs\desktop\laboratorio 2\tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"funciones.h"
+	"submenus.h"
+
+1412257640 c:\users\backup_labs\desktop\laboratorio 2\tp lab2\funciones.h
+	<windows.h>
+
+1412257685 c:\users\backup_labs\desktop\laboratorio 2\tp lab2\submenus.h
+
+1414075048 source:f:\2do parcial\laboratorio 2\tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+
+1414075916 f:\2do parcial\laboratorio 2\tp lab2\clases.h
+
+1413467274 f:\2do parcial\laboratorio 2\tp lab2\funciones.h
+	<windows.h>
+
+1414069658 f:\2do parcial\laboratorio 2\tp lab2\submenus.h
+
+1414076018 f:\2do parcial\laboratorio 2\tp lab2\productos.h
+
+1417665264 source:c:\users\charly\desktop\tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1417667637 c:\users\charly\desktop\tp lab2\clases.h
+
+1417659459 c:\users\charly\desktop\tp lab2\funciones.h
+	<windows.h>
+
+1417665264 c:\users\charly\desktop\tp lab2\submenus.h
+
+1417663159 c:\users\charly\desktop\tp lab2\productos.h
+
+1417667851 c:\users\charly\desktop\tp lab2\clientes.h
+
+1414674088 source:f:\tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+
+1414457456 f:\tp lab2\funciones.h
+	<windows.h>
+
+1414679868 f:\tp lab2\clases.h
+
+1414680364 f:\tp lab2\submenus.h
+
+1414670022 f:\tp lab2\productos.h
+
+1414671314 f:\tp lab2\clientes.h
+
+1414680684 f:\tp lab2\compras.h
+
+1414680144 f:\tp lab2\detalle_compras.h
+
+1417478810 c:\users\charly\desktop\tp lab2\compras.h
+
+1417663652 c:\users\charly\desktop\tp lab2\detalle_compras.h
+
+1416493494 source:f:\dsps poner en raiz\tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+
+1416487314 f:\dsps poner en raiz\tp lab2\funciones.h
+	<windows.h>
+
+1416492870 f:\dsps poner en raiz\tp lab2\clases.h
+
+1416488472 f:\dsps poner en raiz\tp lab2\submenus.h
+
+1414670022 f:\dsps poner en raiz\tp lab2\productos.h
+
+1416488028 f:\dsps poner en raiz\tp lab2\clientes.h
+
+1416493694 f:\dsps poner en raiz\tp lab2\compras.h
+
+1416493940 f:\dsps poner en raiz\tp lab2\detalle_compras.h
+
+1417667600 c:\users\charly\desktop\tp lab2\ventas.h
+
+1416493694 f:\dsps poner en raiz\tp lab2\ventas.h
+
+1416493982 f:\dsps poner en raiz\tp lab2\detalle_ventas.h
+
+1417667600 c:\users\charly\desktop\tp lab2\detalle_ventas.h
+
+1417667851 c:\users\charly\desktop\tp lab2\configuracion.h
+
+1432214152 source:f:\lab 2 tps\tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1432211014 f:\lab 2 tps\tp lab2\funciones.h
+	<windows.h>
+
+1432218690 f:\lab 2 tps\tp lab2\clases.h
+
+1432214145 f:\lab 2 tps\tp lab2\submenus.h
+
+1432212413 f:\lab 2 tps\tp lab2\productos.h
+
+1432219102 f:\lab 2 tps\tp lab2\clientes.h
+
+1432210873 f:\lab 2 tps\tp lab2\compras.h
+
+1432211536 f:\lab 2 tps\tp lab2\detalle_compras.h
+
+1432218996 f:\lab 2 tps\tp lab2\ventas.h
+
+1432211924 f:\lab 2 tps\tp lab2\detalle_ventas.h
+
+1432219050 f:\lab 2 tps\tp lab2\configuracion.h
+
+1432785486 source:c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1432787389 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\funciones.h
+	<windows.h>
+
+1432218690 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\clases.h
+
+1432785526 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\submenus.h
+
+1432785545 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\productos.h
+
+1432219102 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\clientes.h
+
+1432210873 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\compras.h
+
+1432211536 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\detalle_compras.h
+
+1432219186 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\ventas.h
+
+1432211924 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\detalle_ventas.h
+
+1432219050 c:\users\charly\desktop\lab 2 tps\tp lab2 21-05-2015\configuracion.h
+
+1432785486 source:f:\lab 2 tps\tp lab2 28-05-2015\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1432822190 f:\lab 2 tps\tp lab2 28-05-2015\funciones.h
+	<windows.h>
+
+1432824672 f:\lab 2 tps\tp lab2 28-05-2015\clases.h
+
+1432785526 f:\lab 2 tps\tp lab2 28-05-2015\submenus.h
+
+1432821412 f:\lab 2 tps\tp lab2 28-05-2015\productos.h
+
+1432219102 f:\lab 2 tps\tp lab2 28-05-2015\clientes.h
+
+1432210873 f:\lab 2 tps\tp lab2 28-05-2015\compras.h
+
+1432821373 f:\lab 2 tps\tp lab2 28-05-2015\detalle_compras.h
+
+1432824948 f:\lab 2 tps\tp lab2 28-05-2015\ventas.h
+
+1432824948 f:\lab 2 tps\tp lab2 28-05-2015\detalle_ventas.h
+
+1432219050 f:\lab 2 tps\tp lab2 28-05-2015\configuracion.h
+
+1433392163 source:c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1433395593 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\funciones.h
+	<windows.h>
+
+1433394520 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\clases.h
+
+1433395440 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\submenus.h
+
+1432821412 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\productos.h
+
+1432219102 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\clientes.h
+
+1432210873 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\compras.h
+
+1432821373 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\detalle_compras.h
+
+1433394884 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\ventas.h
+
+1433394632 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\detalle_ventas.h
+
+1432219050 c:\users\charly\desktop\tp 2 final\tp lab2 28-05-2015 - en clase\configuracion.h
+
+1433392163 source:e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1433420815 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\funciones.h
+	<windows.h>
+
+1433394520 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\clases.h
+
+1433420992 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\submenus.h
+
+1432821412 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\productos.h
+
+1432219102 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\clientes.h
+
+1432210873 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\compras.h
+
+1432821373 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\detalle_compras.h
+
+1433420738 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\ventas.h
+
+1433420389 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\detalle_ventas.h
+
+1432219050 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015\configuracion.h
+
+1433392163 source:e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1433420815 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\funciones.h
+	<windows.h>
+
+1433394520 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\clases.h
+
+1433420992 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\submenus.h
+
+1432821412 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\productos.h
+
+1432219102 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\clientes.h
+
+1432210873 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\compras.h
+
+1432821373 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\detalle_compras.h
+
+1433422183 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\ventas.h
+
+1433422271 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\detalle_ventas.h
+
+1432219050 e:\lab 2 tps\tp lab2 28-05-2015 - en clase 04-06-2015 - prueba cargar id inexist\configuracion.h
+
+1433392163 source:e:\lab 2 tps\tp lab2 - en clase 04-06-2015\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1433430130 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\funciones.h
+	<windows.h>
+
+1433423420 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\clases.h
+
+1433430279 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\submenus.h
+
+1432821412 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\productos.h
+
+1432219102 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\clientes.h
+
+1432210873 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\compras.h
+
+1432821373 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\detalle_compras.h
+
+1433430443 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\ventas.h
+
+1433429354 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\detalle_ventas.h
+
+1432219050 e:\lab 2 tps\tp lab2 - en clase 04-06-2015\configuracion.h
+
+1433392163 source:c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1434602567 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1434602391 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\clases.h
+
+1433430279 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\submenus.h
+
+1432821412 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\productos.h
+
+1432219102 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\clientes.h
+
+1432210873 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\compras.h
+
+1432821373 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\detalle_compras.h
+
+1434604693 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\ventas.h
+
+1434604161 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\detalle_ventas.h
+
+1432219050 c:\users\charly\desktop\tp 2 final\tp lab2 04-06-2015 - en clase\configuracion.h
+
+1434631055 source:e:\tp lab2 04-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"Cuadros.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1434631055 e:\tp lab2 04-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1434639126 e:\tp lab2 04-06-2015 - en clase\clases.h
+
+1433430279 e:\tp lab2 04-06-2015 - en clase\submenus.h
+
+1434639838 e:\tp lab2 04-06-2015 - en clase\productos.h
+
+1432219102 e:\tp lab2 04-06-2015 - en clase\clientes.h
+
+1432210873 e:\tp lab2 04-06-2015 - en clase\compras.h
+
+1432821373 e:\tp lab2 04-06-2015 - en clase\detalle_compras.h
+
+1434630150 e:\tp lab2 04-06-2015 - en clase\ventas.h
+
+1434629326 e:\tp lab2 04-06-2015 - en clase\detalle_ventas.h
+
+1432219050 e:\tp lab2 04-06-2015 - en clase\configuracion.h
+
+1434640167 e:\tp lab2 04-06-2015 - en clase\cuadros.h
+
+1434631055 source:c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"Cuadros.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1434631055 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1435209062 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\cuadros.h
+
+1434639126 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\clases.h
+
+1433430279 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\submenus.h
+
+1435208567 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\productos.h
+
+1432219102 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\clientes.h
+
+1432210873 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\compras.h
+
+1432821373 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\detalle_compras.h
+
+1435208973 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\ventas.h
+
+1434629326 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\detalle_ventas.h
+
+1432219050 c:\users\charly\desktop\tp 2 final\tp lab2 18-06-2015 - en clase\configuracion.h
+
+1435242010 source:j:\tp lab2 18-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"funciones.h"
+	"Cuadros.h"
+	"clases.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1434631055 j:\tp lab2 18-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1435241604 j:\tp lab2 18-06-2015 - en clase\cuadros.h
+
+1435238182 j:\tp lab2 18-06-2015 - en clase\clases.h
+
+1435242031 j:\tp lab2 18-06-2015 - en clase\submenus.h
+
+1435239553 j:\tp lab2 18-06-2015 - en clase\productos.h
+
+1432219102 j:\tp lab2 18-06-2015 - en clase\clientes.h
+
+1435242835 j:\tp lab2 18-06-2015 - en clase\compras.h
+
+1432821373 j:\tp lab2 18-06-2015 - en clase\detalle_compras.h
+
+1435240169 j:\tp lab2 18-06-2015 - en clase\ventas.h
+
+1434629326 j:\tp lab2 18-06-2015 - en clase\detalle_ventas.h
+
+1435240880 j:\tp lab2 18-06-2015 - en clase\configuracion.h
+
+1435787268 source:c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1435721370 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1435538958 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\cuadros.h
+
+1435810688 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\clases.h
+
+1435721021 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\submenus.h
+
+1435239553 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\productos.h
+
+1432219102 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\clientes.h
+
+1435811100 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\compras.h
+
+1435811440 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\detalle_compras.h
+
+1435810439 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\ventas.h
+
+1435810735 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\detalle_ventas.h
+
+1435240880 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\configuracion.h
+
+1435786581 c:\users\charly\desktop\tp 2 final\tp lab2 25-06-2015 - en clase\fecha.h
+
+1435787268 source:e:\tp lab2 25-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1435786581 e:\tp lab2 25-06-2015 - en clase\fecha.h
+
+1435810688 e:\tp lab2 25-06-2015 - en clase\clases.h
+
+1435721370 e:\tp lab2 25-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1435538958 e:\tp lab2 25-06-2015 - en clase\cuadros.h
+
+1435721021 e:\tp lab2 25-06-2015 - en clase\submenus.h
+
+1435239553 e:\tp lab2 25-06-2015 - en clase\productos.h
+
+1432219102 e:\tp lab2 25-06-2015 - en clase\clientes.h
+
+1435811100 e:\tp lab2 25-06-2015 - en clase\compras.h
+
+1435811440 e:\tp lab2 25-06-2015 - en clase\detalle_compras.h
+
+1435810439 e:\tp lab2 25-06-2015 - en clase\ventas.h
+
+1435810735 e:\tp lab2 25-06-2015 - en clase\detalle_ventas.h
+
+1435240880 e:\tp lab2 25-06-2015 - en clase\configuracion.h
+
+1435837184 source:j:\tp lab2 25-06-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+
+1435786581 j:\tp lab2 25-06-2015 - en clase\fecha.h
+
+1435810688 j:\tp lab2 25-06-2015 - en clase\clases.h
+
+1435842732 j:\tp lab2 25-06-2015 - en clase\funciones.h
+	<windows.h>
+
+1435538958 j:\tp lab2 25-06-2015 - en clase\cuadros.h
+
+1435837184 j:\tp lab2 25-06-2015 - en clase\submenus.h
+
+1435842557 j:\tp lab2 25-06-2015 - en clase\productos.h
+
+1435842242 j:\tp lab2 25-06-2015 - en clase\clientes.h
+
+1435843733 j:\tp lab2 25-06-2015 - en clase\compras.h
+
+1435843658 j:\tp lab2 25-06-2015 - en clase\detalle_compras.h
+
+1435842421 j:\tp lab2 25-06-2015 - en clase\ventas.h
+
+1435810735 j:\tp lab2 25-06-2015 - en clase\detalle_ventas.h
+
+1435240880 j:\tp lab2 25-06-2015 - en clase\configuracion.h
+
+1437022499 source:c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1435786581 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\fecha.h
+
+1437014068 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\clases.h
+
+1437024223 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\funciones.h
+	<windows.h>
+
+1437024824 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\cuadros.h
+
+1437023996 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\submenus.h
+
+1437024879 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\productos.h
+
+1435842242 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\clientes.h
+
+1437016988 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\compras.h
+
+1437010020 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\detalle_compras.h
+
+1437016988 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\ventas.h
+
+1437006350 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\detalle_ventas.h
+
+1437024972 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\configuracion.h
+
+1437024688 c:\users\charly\desktop\tp 2 final\tp lab2 02-07-2015 - en clase\reportes.h
+
+1437022499 source:j:\tp lab2 02-07-2015 - en clase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1435786581 j:\tp lab2 02-07-2015 - en clase\fecha.h
+
+1437014068 j:\tp lab2 02-07-2015 - en clase\clases.h
+
+1437048311 j:\tp lab2 02-07-2015 - en clase\funciones.h
+	<windows.h>
+
+1437024824 j:\tp lab2 02-07-2015 - en clase\cuadros.h
+
+1437048758 j:\tp lab2 02-07-2015 - en clase\submenus.h
+
+1437048734 j:\tp lab2 02-07-2015 - en clase\productos.h
+
+1437047564 j:\tp lab2 02-07-2015 - en clase\clientes.h
+
+1437046893 j:\tp lab2 02-07-2015 - en clase\compras.h
+
+1437010020 j:\tp lab2 02-07-2015 - en clase\detalle_compras.h
+
+1437016988 j:\tp lab2 02-07-2015 - en clase\ventas.h
+
+1437006350 j:\tp lab2 02-07-2015 - en clase\detalle_ventas.h
+
+1437046813 j:\tp lab2 02-07-2015 - en clase\configuracion.h
+
+1437047013 j:\tp lab2 02-07-2015 - en clase\reportes.h
+
+1437022499 source:c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1435786581 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\fecha.h
+
+1437014068 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\clases.h
+
+1437048311 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\funciones.h
+	<windows.h>
+
+1437024824 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\cuadros.h
+
+1437048758 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\submenus.h
+
+1437048734 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\productos.h
+
+1437047564 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\clientes.h
+
+1437046893 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\compras.h
+
+1437010020 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\detalle_compras.h
+
+1437016988 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\ventas.h
+
+1437006350 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\detalle_ventas.h
+
+1437046813 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\configuracion.h
+
+1437047013 c:\users\charly\desktop\laboratorio 2\falcón doria, carlos alberto\reportes.h
+
+1474584694 source:c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1474584692 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\fecha.h
+
+1474584690 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\clases.h
+
+1474584692 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\funciones.h
+	<windows.h>
+
+1474584690 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\cuadros.h
+
+1474584694 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\submenus.h
+
+1474584694 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\productos.h
+
+1474584690 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\clientes.h
+
+1474584690 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\compras.h
+
+1474584692 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\detalle_compras.h
+
+1474584696 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\ventas.h
+
+1474584692 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\detalle_ventas.h
+
+1474584690 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\configuracion.h
+
+1474584694 c:\users\rodri\desktop\tp 2 final - falcón doria_ carlos alberto\reportes.h
+
+1474584694 source:c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1474584692 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\fecha.h
+
+1474584690 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\clases.h
+
+1474584692 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\funciones.h
+	<windows.h>
+
+1474584690 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\cuadros.h
+
+1474584694 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\submenus.h
+
+1474584694 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\productos.h
+
+1474584690 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\clientes.h
+
+1474584690 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\compras.h
+
+1474584692 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\detalle_compras.h
+
+1474584696 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\ventas.h
+
+1474584692 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\detalle_ventas.h
+
+1474584690 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\configuracion.h
+
+1474584694 c:\users\rodri\desktop\utn 2017\ultimas cosas\tp 2 final - falcón doria_ carlos alberto\reportes.h
+
+1474584694 source:d:\utn\aprobadas\laboratorio 2\tp 2 final\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<cctype>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	"Fecha.h"
+	"clases.h"
+	"funciones.h"
+	"Cuadros.h"
+	"submenus.h"
+	"Productos.h"
+	"Clientes.h"
+	"Compras.h"
+	"Detalle_Compras.h"
+	"Ventas.h"
+	"Detalle_Ventas.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1474584692 d:\utn\aprobadas\laboratorio 2\tp 2 final\fecha.h
+
+1474584690 d:\utn\aprobadas\laboratorio 2\tp 2 final\clases.h
+
+1474584692 d:\utn\aprobadas\laboratorio 2\tp 2 final\funciones.h
+	<windows.h>
+
+1474584690 d:\utn\aprobadas\laboratorio 2\tp 2 final\cuadros.h
+
+1474584694 d:\utn\aprobadas\laboratorio 2\tp 2 final\submenus.h
+
+1474584694 d:\utn\aprobadas\laboratorio 2\tp 2 final\productos.h
+
+1474584690 d:\utn\aprobadas\laboratorio 2\tp 2 final\clientes.h
+
+1474584690 d:\utn\aprobadas\laboratorio 2\tp 2 final\compras.h
+
+1474584692 d:\utn\aprobadas\laboratorio 2\tp 2 final\detalle_compras.h
+
+1474584696 d:\utn\aprobadas\laboratorio 2\tp 2 final\ventas.h
+
+1474584692 d:\utn\aprobadas\laboratorio 2\tp 2 final\detalle_ventas.h
+
+1474584690 d:\utn\aprobadas\laboratorio 2\tp 2 final\configuracion.h
+
+1474584694 d:\utn\aprobadas\laboratorio 2\tp 2 final\reportes.h
+
